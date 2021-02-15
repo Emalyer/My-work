@@ -1,0 +1,36 @@
+#app {
+    background-color: mistyrose;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: floralwhite;
+    margin: 8px auto;
+}
+
+#chatbot {
+    background-color: lightcyan;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+iframe {
+    margin: 20px;
+}
+
+#game {
+    background-color: navajowhite;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+a {
+    margin: 20px;
+}
